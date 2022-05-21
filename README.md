@@ -4,7 +4,7 @@ I am a Frontend Developer based out of India.
 
 - 🎉 &thinsp;&thinsp; I'm passionate about building beautiful, accessible and performant user interfaces.
 - 🔭 &thinsp;&thinsp; I’m currently working on ReactJs and Vue.
-- 🌱 &thinsp;&thinsp; I’m currently learning UX designing, GatsbyJs, Elixir and Golang
+- 🌱 &thinsp;&thinsp; I’m currently learning UX designing, Rust and Wasm
 - 👯 &thinsp;&thinsp; I’m looking to collaborate on Javascript/Typescript projects
 - 😄 &thinsp;&thinsp; Pronouns: He/Him
 
